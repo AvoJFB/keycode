@@ -1,8 +1,8 @@
 {
   "name": "keycode",
   "version": "1.0.0",
-  "description": "Helper for defining code of keyboards keys",
-  "main": "index.js",
+  "description": "Helper for defining code of keyboard keys",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
